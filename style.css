@@ -1,0 +1,327 @@
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.basha {
+    float: left;
+    margin-left: 180px;
+    margin-top: 70px;
+
+
+}
+
+.basha p {
+    font-style: italic;
+}
+
+.b {
+    margin-left: 700px;
+    height: 500px;
+
+    /* font-size: 30px; */
+    margin-bottom: 300px;
+
+
+}
+
+.a {
+    margin-left: 300px;
+    margin-top: 30px;
+    font-size: 20px;
+
+}
+
+.basha button {
+    /* border: 2px solid red; */
+    margin-left: 90px;
+}
+
+img {
+    width: 70%;
+}
+
+.b h4 {
+    font-size: 25px;
+}
+
+.a {
+    padding-top: 50PX;
+    font-size: 30px;
+}
+
+.font {
+    font-size: 15px;
+}
+
+button:hover {
+    background-color: blueviolet;
+
+
+}
+
+button {
+    padding: 5px 5PX 5PX 5PX;
+}
+
+.sub {
+    background-color: rgb(158, 188, 178);
+    height: 640px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: -30px;
+}
+
+.section1 {
+    text-align: center;
+}
+
+.section2 {
+    text-align: center;
+    font-style: italic;
+}
+
+.section3 img {
+    float: left;
+    height: 300px;
+    width: 20%;
+    border: 2px solid black;
+    margin-left: 50px;
+}
+
+.section4 button {
+
+    margin-left: 690px;
+    margin-top: 25px;
+    padding: 5px 15px 5px 15px;
+
+}
+
+.section4 button:hover {
+    background-color: chartreuse;
+}
+
+.main3 {
+    background-color: rgb(177, 210, 199);
+
+}
+
+.sub1,
+h2,
+p {
+    margin-left: 100px;
+    font-style: italic;
+}
+
+.sub2 {
+    display: flex;
+    margin-left: 290px;
+    margin-top: 50px;
+}
+
+.sub3 {
+    display: flex;
+    margin-left: 195px;
+}
+
+.sub4 img {
+    display: flex;
+    height: 360px;
+    width: 35%;
+    margin-left: 800px;
+    margin-top: -230px;
+}
+
+.main3 {
+    padding-bottom: 20px;
+}
+
+.mini2 {
+    border: 2px solid black;
+    width: 49%;
+    float: left;
+    height: 40px;
+    font-size: 20px;
+    padding-top: 7px;
+    background-color: grey;
+    color: white;
+
+}
+
+.mini3 {
+    border: 2px solid black;
+    width: 49%;
+    height: 40px;
+    margin-left: 10px;
+    font-size: 20px;
+    padding-top: 7px;
+    background-color: grey;
+    float: left;
+    color: white;
+}
+
+.mini4 {
+    margin-left: 100px;
+}
+
+.mini5 h2 {
+    /* border: 2px solid color red; */
+    float: left;
+    margin-left: 300px;
+
+}
+
+.mini6 {
+    margin-left: 800px;
+}
+
+.mini4 {
+    float: left;
+    /* border: 2px solid red; */
+
+}
+
+.mini9 {
+    border: 2px solid rgb(8, 8, 8);
+    width: 13%;
+    float: left;
+    margin-left: 150px;
+    background-color: grey;
+    height: 42px;
+    padding-top: 8px;
+
+}
+
+.mini10 {
+    border: 2px solid rgb(8, 7, 7);
+    width: 13%;
+    margin-left: 1050px;
+    background-color: grey;
+    height: 42px;
+    padding-top: 8px;
+}
+
+.mini11 {
+    border: 2px solid rgb(11, 6, 6);
+    width: 13%;
+    float: left;
+    margin-left: 810px;
+    background-color: grey;
+    height: 42px;
+    padding-top: 8px;
+    /* text-align: center ; */
+
+
+
+}
+
+.mini11 p {
+    margin-left: 33%;
+}
+
+.mini10 p {
+    margin-left: 80px;
+
+}
+
+.mini12 p {
+    margin-left: 80px;
+
+}
+
+.mini13 p {
+    margin-left: 70px;
+
+}
+.mini9 p{
+margin-left: 70px;
+}
+
+.mini12 {
+    border: 2px solid rgb(14, 14, 14);
+    width: 13%;
+    margin-left: 1050px;
+    background-color: grey;
+    height: 42px;
+    padding-top: 8px;
+    margin-top: 65px;
+}
+.mini13{
+    padding-top: 70px;
+}
+.mini7{
+    padding-top: 50px;
+}
+ .main4{
+    height: 500px;
+} 
+
+.finally{
+    float: left;
+     margin-left: 125px;
+     padding-top: 25px;
+     color: white;
+  }
+  .finally i{
+    font-size: 40px;
+  /* border:2px solid red ; */
+  
+  
+  }
+  .finally span,p{
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  .king{
+    margin-left: 10px;
+  }
+  .pri{
+    /* border: 2px solid red; */
+    margin-left: 45px;
+    margin-top: -45px;
+  }
+  .connect{
+    float: left;
+    margin-left: 150px;
+    padding-top: 30px;
+  
+  }
+  .im{
+    background-color: rgba(0, 0, 0, 0.875);
+    /* border: 2px solid red; */
+    height: 400px;
+    color: white;
+  }
+  .mi{
+    font-size: 30px;
+  
+    margin-left: 10px;
+  }
+  .last{
+    text-align: center;
+    /* border: 2px solid red; */
+    background-color: rgba(0, 0, 0, 0.875);
+    color: white;
+  
+  
+  }
+  .last p{
+    font-size: 15px;
+  
+  }
+  .lol{
+    color: rgb(69, 69, 218);
+  
+  }
+  .my{
+    color: red;
+  }
+  .dad{
+   background-image: linear-gradient(yellow ,rgb(170, 11, 135),blue);
+  }
+  .juu{
+    color: rgb(8, 8, 195);
+  }
